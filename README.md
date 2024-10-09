@@ -99,9 +99,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matx104&theme=radical&background=darkgrey&stroke=darkemerald" alt="GitHub Streak Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matx104&layout=compact&theme=radical&bg_color=darkemerald&title_color=FFF" alt="Top Languages" />
-</p>
 
 ---
 
@@ -112,7 +109,7 @@
 
 - **Sports Enthusiast**: Table tennis, tennis, cricket, football, volleyball, dodgeball, wrestling, boxing, and running. 🏓⚽🥊🏃‍♂️
 
-- **Anime & Manga Lover**: Avid reader of **Shonen Anime** and manga. Some favorites include *Naruto*, *Attack on Titan*, *My Hero Academia*, and *One Piece*. 💥
+- **Anime & Manga Lover**: Avid reader of **Shonen Anime** and manga. Some favorites include *Dragon Ball*, *Naruto*, *Attack on Titan*, *My Hero Academia*, and *One Piece*. 💥
 
 - **Bookworm**: Enjoy reading *Harry Potter*, *Lorien Legacies*, *Narnia*, *Game of Thrones*, *The Hunger Games*, *The Fault in Our Stars*, *50 Shades of Grey* 📚.
 
