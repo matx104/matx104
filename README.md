@@ -429,7 +429,7 @@ timeline
 
 ### ☁️ Cloud & Infrastructure
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
@@ -441,7 +441,7 @@ timeline
 
 ### 🐳 Containers & Orchestration
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
@@ -452,7 +452,7 @@ timeline
 
 ### 🔄 CI/CD & DevOps
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
@@ -464,7 +464,7 @@ timeline
 
 ### 🔐 Security & Compliance
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" />
   <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
@@ -479,7 +479,7 @@ timeline
 
 ### 🏛️ GRC & Compliance Frameworks
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/ISO_27001-006400?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 27001" />
   <img src="https://img.shields.io/badge/ISO_27002-006400?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 27002" />
   <img src="https://img.shields.io/badge/NIST_CSF-0078D4?style=for-the-badge&logo=nist&logoColor=white" alt="NIST CSF" />
@@ -496,7 +496,7 @@ timeline
 
 ### 🔴 Red Team & Penetration Testing
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge&logo=cobaltstrike&logoColor=white" alt="Cobalt Strike" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
@@ -511,7 +511,7 @@ timeline
 
 ### 🔵 Blue Team & Defensive Security
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/SIEM-005571?style=for-the-badge&logo=siem&logoColor=white" alt="SIEM" />
   <img src="https://img.shields.io/badge/SOAR-4169E1?style=for-the-badge&logo=soar&logoColor=white" alt="SOAR" />
   <img src="https://img.shields.io/badge/EDR-FF6B6B?style=for-the-badge&logo=edr&logoColor=white" alt="EDR" />
@@ -526,7 +526,7 @@ timeline
 
 ### 📊 Monitoring & Observability
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK" />
@@ -543,7 +543,7 @@ timeline
 
 ### 💻 Programming & Scripting
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -555,7 +555,7 @@ timeline
 
 ### 🗄️ Databases & Storage
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -569,7 +569,7 @@ timeline
 
 ### 🌐 Networking & Infrastructure
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
   <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white" alt="OPNsense" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
@@ -582,7 +582,7 @@ timeline
 
 ### 🐧 Operating Systems & Platforms
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
@@ -594,7 +594,7 @@ timeline
 
 ### 🔧 Development Tools & IDEs
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -606,7 +606,7 @@ timeline
 
 ### 🎨 Design & Creative Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
@@ -617,7 +617,7 @@ timeline
 
 ### 🧪 Testing & Automation
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
@@ -626,7 +626,7 @@ timeline
 
 ### 🤖 Machine Learning & Data Science
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -636,7 +636,7 @@ timeline
 
 ### 🎮 Game Development & 3D
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
@@ -665,6 +665,8 @@ Other          █░░░░░░░░░░░░░░░░░░░░�
 
 ### ⏰ This Week I Spent My Time On
 
+<div align="center">
+
 ```text
 💼 Work Focus:
 ├── 🔐 Security Automation        - 12+ hrs
@@ -679,6 +681,8 @@ Other          █░░░░░░░░░░░░░░░░░░░░�
 ├── Python & Bash                 ████████░░░░░░░░   20%
 └── Go & JavaScript               ██░░░░░░░░░░░░░░    5%
 ```
+
+</div>
 
 ---
 
@@ -899,6 +903,8 @@ Leroy Smith main in Tekken
 
 ### 🔥 Random Facts
 
+<div align="center">
+
 ```python
 class MatX104:
     def __init__(self):
@@ -931,6 +937,8 @@ class MatX104:
         
 me = MatX104()
 ```
+
+</div>
 
 ---
 
@@ -1630,9 +1638,22 @@ Favorites: Strategy
 - 🌟 **Lorien Legacies** - Sci-fi action
 - 🦁 **Narnia** - Fantasy adventure
 - ⚔️ **Game of Thrones** - Political intrigue
+- 💍 **Lord of the Rings** - Epic fantasy
+- 🧙 **The Hobbit** - Adventure tale
+- 🎈 **IT** - Horror thriller
 - 🏹 **The Hunger Games** - Dystopian survival
 - 💔 **The Fault in Our Stars** - Emotional journey
 - 🗡️ **The Witcher** - Dark fantasy
+- 🌊 **Percy Jackson** - Mythological adventures
+- 📚 **Eragon** - Dragon rider saga
+- 🌀 **Divergent** - Dystopian thriller
+- 🏃 **The Maze Runner** - Sci-fi survival
+- 🔮 **The Mortal Instruments** - Urban fantasy
+- 🐺 **Twilight** - Supernatural romance
+- 🌙 **A Court of Thorns and Roses** - Fantasy romance
+- 🎪 **The Night Circus** - Magical realism
+- ⏳ **The Time Machine** - Classic sci-fi
+- 🚀 **Ender's Game** - Space opera
 
 </td>
 </tr>
@@ -1676,10 +1697,14 @@ Favorites: Strategy
   <img src="https://img.shields.io/badge/Islamic_Values-006400?style=for-the-badge&logo=star-of-david&logoColor=white" alt="Islamic Values" />
 </p>
 
+<div align="center">
+
 ```arabic
 ﷽
 الله ورسوله أولاً، ثم عائلتي
 ```
+
+</div>
 
 **Translation:** *Allah and His Messenger first, then my family*
 
@@ -1848,6 +1873,8 @@ Monthly support 🌟
 </div>
 
 <!-- ASCII Art Signature -->
+<div align="center">
+
 ```
 ███╗   ███╗ ██████╗ ███╗   ██╗ █████╗ ██████╗  ██████╗██╗  ██╗
 ████╗ ████║██╔═══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║
@@ -1855,9 +1882,13 @@ Monthly support 🌟
 ██║╚██╔╝██║██║   ██║██║╚██╗██║██╔══██║██╔══██╗██║     ██╔══██║
 ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║  ██║██║  ██║╚██████╗██║  ██║
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-                    +_+ MAT 👑
-           DevSecOps Engineer | Cloud Security Architect
 ```
+
+**MONARCH +_+ MAT** 👑
+
+DevSecOps Engineer | Cloud Security Architect
+
+</div>
 
 <p align="center">
   Made with ❤️ and ☕ by <a href="https://github.com/matx104">Muhammad Abdullah Bin Tariq</a>
