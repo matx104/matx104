@@ -675,7 +675,7 @@ Other          █░░░░░░░░░░░░░░░░░░░░�
 ├── 📊 Monitoring & Observability - 6+ hrs
 └── 📝 Documentation & Blogs      - 4+ hrs
 
-🛠️ Technologies Used:
+🛠️ Technologies Used:                                        
 ├── Terraform & Ansible           ████████████░░░░   40%
 ├── Kubernetes & Docker           ██████████░░░░░░   35%
 ├── Python & Bash                 ████████░░░░░░░░   20%
@@ -774,7 +774,7 @@ Other          █░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/matx104">
+<a href="https://open.spotify.com/user/31txxgvyiqxz36jpak4mxcx37wsy">
   <img src="https://novatorem-matx104.vercel.app/api/spotify?background_color=0d1117&border_color=00ff00" alt="Spotify Now Playing" width="350" />
 </a>
 
