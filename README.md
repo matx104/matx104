@@ -1,5 +1,10 @@
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=MONARCH%20+_+%20MAT&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Security%20Architect%20%7C%20CISSP%20Certified&descSize=20&descAlignY=55&descAlign=50" alt="Header" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👑+MONARCH+%2B_%2B+MAT+👑;DevSecOps+Engineer;Cloud+Security+Architect;Youngest+CISSP+Graduate+%40+22;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👑+MONARCH+%2B_%2B+MAT+👑;DevSecOps+Engineer;Cloud+Security+Architect;Youngest+CISSP+Graduate+%40+22;Cybersecurity+Enthusiast;Building+Secure+Systems+🔐;Automating+Everything+🤖" alt="Typing SVG" />
 </h1>
 
 <h2 align="center" style="color:darkemerald;">
@@ -18,6 +23,15 @@
   <img src="https://img.shields.io/github/stars/matx104?label=Stars&style=social" alt="GitHub Stars">
 </p>
 
+<!-- Quick Stats Bar -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🔒_Security_First-006400?style=for-the-badge" alt="Security First" />
+  <img src="https://img.shields.io/badge/☁️_Multi--Cloud-0078D4?style=for-the-badge" alt="Multi-Cloud" />
+  <img src="https://img.shields.io/badge/🛡️_Zero_Trust-9370DB?style=for-the-badge" alt="Zero Trust" />
+  <img src="https://img.shields.io/badge/🤖_Automation-FF6B6B?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/📊_DevSecOps-4169E1?style=for-the-badge" alt="DevSecOps" />
+</p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=matx104&theme=onedark&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
@@ -26,20 +40,51 @@
 
 ---
 
+<!-- Contribution Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matx104/matx104/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matx104/matx104/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matx104/matx104/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## ⚡ Quick Highlights
+
+<div align="center">
+
+| 🏆 Achievement | 📊 Stats | 🎯 Focus |
+|:---:|:---:|:---:|
+| Youngest CISSP @ 22 | 5+ Years Experience | Cloud Security |
+| ISACA Member | Multi-Cloud Expert | DevSecOps |
+| Open Source Contributor | Security Automation | Zero Trust |
+
+</div>
+
+---
+
 ## 📑 Table of Contents
 
+- [⚡ Quick Highlights](#-quick-highlights)
 - [🌐 Connect with Me](#-connect-with-me)
 - [🌟 About Me](#-about-me)
+- [🎯 My Journey](#-my-journey)
 - [🏆 Certifications & Achievements](#-certifications--achievements)
 - [🛠️ Technical Arsenal](#️-technical-arsenal)
+- [📈 Weekly Development Breakdown](#-weekly-development-breakdown)
 - [💼 Professional Focus](#-professional-focus)
 - [🚀 Featured Projects](#-featured-projects)
 - [📊 GitHub Analytics](#-github-analytics)
+- [🎵 Vibing To](#-vibing-to)
 - [📝 Latest Blog Posts](#-latest-blog-posts)
+- [💡 Fun Facts About Me](#-fun-facts-about-me)
 - [📚 Inspirational Wisdom](#-inspirational-wisdom)
 - [🎮 Beyond The Terminal](#-beyond-the-terminal)
 - [🌍 Languages](#-languages)
 - [📚 Islamic Ethos](#-islamic-ethos)
+- [☕ Support My Work](#-support-my-work)
 
 ---
 
@@ -79,6 +124,18 @@
   <a href="https://github.com/matx104" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.youtube.com/@matx104" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://discord.gg/matx104" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://dev.to/matx104" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://hashnode.com/@matx104" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
 </p>
 
 ---
@@ -103,6 +160,12 @@ approach: |
   Security-first mindset in everything I build
   Automation over manual intervention
   Continuous learning and improvement
+  
+fun_facts:
+  - 🎯 I automate everything I can
+  - 🧩 Puzzle solver at heart
+  - ☕ Coffee-powered engineer
+  - 🌙 Night owl coder
 ```
 
 ### 🎯 Current Focus
@@ -127,14 +190,223 @@ approach: |
 
 ---
 
+## 🎯 My Journey
+
+<div align="center">
+
+```mermaid
+timeline
+    title Career Journey of Muhammad Abdullah Bin Tariq
+    section Education & Early Career
+        2019 : Started Cybersecurity Journey
+             : First security certifications
+        2020 : Deep dive into Cloud Computing
+             : AWS & Azure fundamentals
+    section Professional Growth
+        2021 : DevOps transformation
+             : CI/CD pipeline mastery
+        2022 : CISSP Certified at 22 🏆
+             : Youngest graduate achievement
+    section Current & Future
+        2023 : DevSecOps Leadership
+             : Multi-cloud security architect
+        2024 : Cloud Security Innovation
+             : Zero Trust implementation
+        2025 : Next Goals: CISA & CISM
+             : Building the future of security
+```
+
+</div>
+
+### 📊 Career Milestones
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🎓 Education**
+
+```
+┌─────────────────────┐
+│  Cybersecurity &    │
+│  Cloud Computing    │
+│    Graduate 🎓      │
+└─────────────────────┘
+```
+
+</td>
+<td width="33%" align="center">
+
+**🏆 Certifications**
+
+```
+┌─────────────────────┐
+│  CISSP Certified    │
+│  at Age 22 🥇       │
+│  Youngest Graduate  │
+└─────────────────────┘
+```
+
+</td>
+<td width="33%" align="center">
+
+**🚀 Current Role**
+
+```
+┌─────────────────────┐
+│ DevSecOps Engineer  │
+│ Cloud Security      │
+│ Architect 🔐        │
+└─────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🏆 Certifications & Achievements
+
+<!-- Animated Certification Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=🏅+Youngest+CISSP+Graduate+at+Age+22;🔐+Pursuing+CISA+%26+CISM+%26+CRISC;🛡️+GRC+%7C+Security+Architecture+%7C+Audit;☁️+Multi-Cloud+Security+Expert" alt="Certification Animation" />
+</p>
+
+### 🎖️ Current Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/CISSP-Certified-006400?style=for-the-badge&logo=isc2&logoColor=white" alt="CISSP" />
+  <img src="https://img.shields.io/badge/CC-(ISC)²_Certified-006400?style=for-the-badge&logo=isc2&logoColor=white" alt="CC" />
   <img src="https://img.shields.io/badge/Youngest_Graduate-Age_22-FF6B6B?style=for-the-badge&logo=star&logoColor=white" alt="Achievement" />
-  <img src="https://img.shields.io/badge/Next_Goal-CISA-4169E1?style=for-the-badge&logo=target&logoColor=white" alt="CISA" />
-  <img src="https://img.shields.io/badge/Next_Goal-CISM-9370DB?style=for-the-badge&logo=target&logoColor=white" alt="CISM" />
 </p>
+
+### 🎯 Certification Roadmap & Goals
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next_Goal-CCSP-0078D4?style=for-the-badge&logo=isc2&logoColor=white" alt="CCSP" />
+  <img src="https://img.shields.io/badge/Next_Goal-CISA-4169E1?style=for-the-badge&logo=isaca&logoColor=white" alt="CISA" />
+  <img src="https://img.shields.io/badge/Next_Goal-CISM-9370DB?style=for-the-badge&logo=isaca&logoColor=white" alt="CISM" />
+  <img src="https://img.shields.io/badge/Next_Goal-CRISC-FF6B6B?style=for-the-badge&logo=isaca&logoColor=white" alt="CRISC" />
+</p>
+
+### 📜 Complete Certification Journey
+
+<div align="center">
+
+<details open>
+<summary><b>🔐 (ISC)² Certifications</b></summary>
+
+| Status | Certification | Description | Target |
+|:---:|:---|:---|:---:|
+| ✅ | **CISSP** | Certified Information Systems Security Professional | 2022 ✓ |
+| ✅ | **CC** | Certified in Cybersecurity | 2022 ✓ |
+| 🎯 | **CCSP** | Certified Cloud Security Professional | 2025 |
+| 🎯 | **ISSMP** | Information Systems Security Management Professional | 2025 |
+| 🎯 | **ISSEP** | Information Systems Security Engineering Professional | 2026 |
+| 🎯 | **ISSAP** | Information Systems Security Architecture Professional | 2026 |
+| 🎯 | **CGRC** | Certified in Governance, Risk and Compliance | 2025 |
+
+</details>
+
+<details>
+<summary><b>📊 ISACA Certifications (GRC Focus)</b></summary>
+
+| Status | Certification | Description | Target |
+|:---:|:---|:---|:---:|
+| 🎯 | **CISA** | Certified Information Systems Auditor | 2025 |
+| 🎯 | **CISM** | Certified Information Security Manager | 2025 |
+| 🎯 | **CRISC** | Certified in Risk and Information Systems Control | 2025 |
+| 🎯 | **CGEIT** | Certified in Governance of Enterprise IT | 2026 |
+| 🎯 | **CDPSE** | Certified Data Privacy Solutions Engineer | 2026 |
+
+</details>
+
+<details>
+<summary><b>🔴 Offensive Security Certifications</b></summary>
+
+| Status | Certification | Description | Target |
+|:---:|:---|:---|:---:|
+| 🎯 | **CEH** | Certified Ethical Hacker (EC-Council) | 2025 |
+| 🎯 | **OSCP** | Offensive Security Certified Professional | 2025 |
+| 🎯 | **OSWE** | Offensive Security Web Expert | 2026 |
+| 🎯 | **OSCE³** | Offensive Security Certified Expert | 2026 |
+| 🎯 | **GPEN** | GIAC Penetration Tester | 2026 |
+| 🎯 | **GWAPT** | GIAC Web Application Penetration Tester | 2026 |
+
+</details>
+
+<details>
+<summary><b>🌐 Cisco Networking Certifications</b></summary>
+
+| Status | Certification | Description | Target |
+|:---:|:---|:---|:---:|
+| 🎯 | **CCNA** | Cisco Certified Network Associate | 2025 |
+| 🎯 | **CCNP Security** | Cisco Certified Network Professional Security | 2026 |
+| 🎯 | **CCIE Security** | Cisco Certified Internetwork Expert Security | 2027 |
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud Security Certifications</b></summary>
+
+| Status | Certification | Description | Target |
+|:---:|:---|:---|:---:|
+| 🎯 | **AWS Security Specialty** | AWS Certified Security - Specialty | 2025 |
+| 🎯 | **Azure Security Engineer** | Microsoft Certified: Azure Security Engineer | 2025 |
+| 🎯 | **GCP Security Engineer** | Google Professional Cloud Security Engineer | 2025 |
+| 🎯 | **CKS** | Certified Kubernetes Security Specialist | 2025 |
+
+</details>
+
+</div>
+
+### 🏛️ GRC (Governance, Risk & Compliance) Expertise
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Governance+%7C+Risk+Management+%7C+Compliance;Security+Frameworks+%26+Standards;Audit+%26+Assurance+%7C+Policy+Development" alt="GRC Animation" />
+</p>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🏛️ Governance**
+```
+├── Security Policies
+├── Standards & Procedures
+├── Security Architecture
+├── Board Reporting
+└── Strategic Planning
+```
+
+</td>
+<td width="33%" align="center">
+
+**⚠️ Risk Management**
+```
+├── Risk Assessment
+├── Threat Modeling
+├── Business Impact Analysis
+├── Risk Treatment
+└── Risk Monitoring
+```
+
+</td>
+<td width="33%" align="center">
+
+**📋 Compliance**
+```
+├── ISO 27001/27002
+├── NIST CSF/800-53
+├── SOC 2 Type II
+├── PCI-DSS
+└── GDPR/HIPAA
+```
+
+</td>
+</tr>
+</table>
 
 ### 🌟 Notable Achievements
 
@@ -203,6 +475,53 @@ approach: |
   <img src="https://img.shields.io/badge/Qualys-ED2E26?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
   <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault" />
+</p>
+
+### 🏛️ GRC & Compliance Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ISO_27001-006400?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 27001" />
+  <img src="https://img.shields.io/badge/ISO_27002-006400?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 27002" />
+  <img src="https://img.shields.io/badge/NIST_CSF-0078D4?style=for-the-badge&logo=nist&logoColor=white" alt="NIST CSF" />
+  <img src="https://img.shields.io/badge/NIST_800--53-0078D4?style=for-the-badge&logo=nist&logoColor=white" alt="NIST 800-53" />
+  <img src="https://img.shields.io/badge/SOC_2-4169E1?style=for-the-badge&logo=soc&logoColor=white" alt="SOC 2" />
+  <img src="https://img.shields.io/badge/PCI--DSS-FF6B6B?style=for-the-badge&logo=pci&logoColor=white" alt="PCI-DSS" />
+  <img src="https://img.shields.io/badge/GDPR-9370DB?style=for-the-badge&logo=gdpr&logoColor=white" alt="GDPR" />
+  <img src="https://img.shields.io/badge/HIPAA-00A550?style=for-the-badge&logo=hipaa&logoColor=white" alt="HIPAA" />
+  <img src="https://img.shields.io/badge/CIS_Controls-232F3E?style=for-the-badge&logo=cis&logoColor=white" alt="CIS Controls" />
+  <img src="https://img.shields.io/badge/COBIT-FF9900?style=for-the-badge&logo=cobit&logoColor=white" alt="COBIT" />
+  <img src="https://img.shields.io/badge/ITIL-4B0082?style=for-the-badge&logo=itil&logoColor=white" alt="ITIL" />
+  <img src="https://img.shields.io/badge/TOGAF-003545?style=for-the-badge&logo=togaf&logoColor=white" alt="TOGAF" />
+</p>
+
+### 🔴 Red Team & Penetration Testing
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge&logo=cobaltstrike&logoColor=white" alt="Cobalt Strike" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Hashcat-3A3A3A?style=for-the-badge&logo=hashcat&logoColor=white" alt="Hashcat" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-FF6633?style=for-the-badge&logo=john&logoColor=white" alt="John" />
+  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=sqlmap&logoColor=white" alt="SQLMap" />
+  <img src="https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=nikto&logoColor=white" alt="Nikto" />
+  <img src="https://img.shields.io/badge/Gobuster-4EAA25?style=for-the-badge&logo=gobuster&logoColor=white" alt="Gobuster" />
+  <img src="https://img.shields.io/badge/Hydra-1679A7?style=for-the-badge&logo=hydra&logoColor=white" alt="Hydra" />
+  <img src="https://img.shields.io/badge/Responder-8B0000?style=for-the-badge&logo=responder&logoColor=white" alt="Responder" />
+</p>
+
+### 🔵 Blue Team & Defensive Security
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SIEM-005571?style=for-the-badge&logo=siem&logoColor=white" alt="SIEM" />
+  <img src="https://img.shields.io/badge/SOAR-4169E1?style=for-the-badge&logo=soar&logoColor=white" alt="SOAR" />
+  <img src="https://img.shields.io/badge/EDR-FF6B6B?style=for-the-badge&logo=edr&logoColor=white" alt="EDR" />
+  <img src="https://img.shields.io/badge/XDR-9370DB?style=for-the-badge&logo=xdr&logoColor=white" alt="XDR" />
+  <img src="https://img.shields.io/badge/Threat_Intel-006400?style=for-the-badge&logo=threat&logoColor=white" alt="Threat Intel" />
+  <img src="https://img.shields.io/badge/YARA-232F3E?style=for-the-badge&logo=yara&logoColor=white" alt="YARA" />
+  <img src="https://img.shields.io/badge/Sigma-FF9900?style=for-the-badge&logo=sigma&logoColor=white" alt="Sigma" />
+  <img src="https://img.shields.io/badge/MITRE_ATT&CK-CC0000?style=for-the-badge&logo=mitre&logoColor=white" alt="MITRE ATT&CK" />
+  <img src="https://img.shields.io/badge/TheHive-FFCC00?style=for-the-badge&logo=thehive&logoColor=black" alt="TheHive" />
+  <img src="https://img.shields.io/badge/Cortex-0078D4?style=for-the-badge&logo=cortex&logoColor=white" alt="Cortex" />
 </p>
 
 ### 📊 Monitoring & Observability
@@ -327,6 +646,42 @@ approach: |
 
 ---
 
+## 📈 Weekly Development Breakdown
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+DevSecOps      ██████████████░░░░░░░░░   35.2%
+Cloud Security █████████████░░░░░░░░░░░   30.8%
+IaC/Terraform  ████████░░░░░░░░░░░░░░░░   15.5%
+Kubernetes     █████░░░░░░░░░░░░░░░░░░░   10.2%
+Documentation  ██░░░░░░░░░░░░░░░░░░░░░░    5.3%
+Other          █░░░░░░░░░░░░░░░░░░░░░░░    3.0%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+### ⏰ This Week I Spent My Time On
+
+```text
+💼 Work Focus:
+├── 🔐 Security Automation        - 12+ hrs
+├── ☁️ Cloud Infrastructure       - 10+ hrs
+├── 🐳 Container Security         - 8+ hrs
+├── 📊 Monitoring & Observability - 6+ hrs
+└── 📝 Documentation & Blogs      - 4+ hrs
+
+🛠️ Technologies Used:
+├── Terraform & Ansible           ████████████░░░░   40%
+├── Kubernetes & Docker           ██████████░░░░░░   35%
+├── Python & Bash                 ████████░░░░░░░░   20%
+└── Go & JavaScript               ██░░░░░░░░░░░░░░    5%
+```
+
+---
+
 ## 💼 Professional Focus
 
 <table>
@@ -411,6 +766,29 @@ approach: |
 
 ---
 
+## 🎵 Vibing To
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/matx104">
+  <img src="https://novatorem-matx104.vercel.app/api/spotify?background_color=0d1117&border_color=00ff00" alt="Spotify Now Playing" width="350" />
+</a>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <img src="https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music" />
+</p>
+
+**🎧 Music genres I code to:**
+
+`Lo-Fi` `Nasheed` `Classical` `Ambient` `Electronic` `OST` `Soundtrack`
+
+</div>
+
+---
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -434,13 +812,177 @@ approach: |
 
 ---
 
+## 💡 Fun Facts About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+🌙
+
+**Night Owl**
+
+I do my best coding between 10 PM - 4 AM
+
+</td>
+<td align="center" width="25%">
+
+☕
+
+**Coffee Addict**
+
+Approximately 4-6 cups per day while coding
+
+</td>
+<td align="center" width="25%">
+
+🎯
+
+**Automation Freak**
+
+If I do it twice, I automate it!
+
+</td>
+<td align="center" width="25%">
+
+🧩
+
+**Puzzle Solver**
+
+I see security as an endless puzzle
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+📚
+
+**Constant Learner**
+
+Always reading or taking courses
+
+</td>
+<td align="center" width="25%">
+
+🏃
+
+**Multi-Sport Athlete**
+
+9 sports and counting!
+
+</td>
+<td align="center" width="25%">
+
+🌍
+
+**Polyglot**
+
+Speaking 7 languages
+
+</td>
+<td align="center" width="25%">
+
+🎮
+
+**Fighting Game Fan**
+
+Leroy Smith main in Tekken
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🔥 Random Facts
+
+```python
+class MatX104:
+    def __init__(self):
+        self.name = "Muhammad Abdullah Bin Tariq"
+        self.alias = "Monarch+_+MAT"
+        self.role = "DevSecOps Engineer"
+        self.code = ["Python", "Bash", "Go", "JavaScript", "TypeScript"]
+        self.tools = ["Terraform", "Ansible", "Kubernetes", "Docker"]
+        self.cloud = ["AWS", "Azure", "GCP"]
+        self.current_focus = "Building Zero Trust Architecture"
+        
+    def say_bismillah(self):
+        return "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْم"
+    
+    def daily_routine(self):
+        return {
+            "morning": "☀️ Fajr Prayer → Coffee → News",
+            "day": "💻 Code → Security Reviews → Meetings",
+            "evening": "🏃 Exercise → Family Time → Reading",
+            "night": "🌙 Deep Work → Learning → Sleep"
+        }
+    
+    def life_goals(self):
+        return [
+            "🎯 Become youngest CISA & CISM",
+            "📚 Write a cybersecurity book",
+            "🌍 Build a security community",
+            "💼 Start a security consultancy"
+        ]
+        
+me = MatX104()
+```
+
+---
+
 ## 📚 Inspirational Wisdom
+
+<!-- Animated Wisdom Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=📖+Wisdom+from+Books%2C+Anime+%26+Life;🗡️+The+Warrior's+Path+to+Excellence;🌟+Philosophy+That+Shapes+My+Journey" alt="Wisdom Animation" />
+</p>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎬 From Fiction
+### ⚔️ Anime & Manga Wisdom
+
+> *"A lesson without pain is meaningless. That's because you can't gain something without sacrificing something in return."*
+> 
+> — **Edward Elric, Fullmetal Alchemist**
+
+> *"The world isn't perfect. But it's there for us, doing the best it can... that's what makes it so damn beautiful."*
+> 
+> — **Roy Mustang, Fullmetal Alchemist**
+
+> *"Hard work is worthless for those that don't believe in themselves."*
+> 
+> — **Naruto Uzumaki**
+
+> *"If you don't take risks, you can't create a future."*
+> 
+> — **Monkey D. Luffy, One Piece**
+
+> *"Power comes in response to a need, not a desire. You have to create that need."*
+> 
+> — **Goku, Dragon Ball Z**
+
+> *"The moment you give up is the moment you let someone else win."*
+> 
+> — **Koro-sensei, Assassination Classroom**
+
+> *"If you want to be strong, learn to fight alone."*
+> 
+> — **Vegeta, Dragon Ball Z**
+
+> *"Knowing sorrow is not terrifying. What is terrifying is knowing you can't go back to happiness you could have."*
+> 
+> — **Gaara, Naruto**
+
+</td>
+<td width="50%">
+
+### 🎬 From Fiction & Games
 
 > *"When the snows fall and the white winds blow, the lone wolf dies, but the pack survives."*
 > 
@@ -456,7 +998,42 @@ approach: |
 
 > *"Fate rarely calls upon us at a moment of our choosing."*
 > 
-> — **Tekken**
+> — **Optimus Prime, Transformers**
+
+> *"A man who has not prepared his children for his own death has failed as a father."*
+> 
+> — **Kratos, God of War**
+
+> *"We don't get to choose how we start in this life. Real greatness is what you do with the hand you're dealt."*
+> 
+> — **Victor Sullivan, Uncharted**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🥋 Warrior Philosophy
+
+> *"Perceive that which cannot be seen with the eye."*
+> 
+> — **Miyamoto Musashi, The Book of Five Rings**
+
+> *"The ultimate aim of martial arts is not having to use them."*
+> 
+> — **Miyamoto Musashi**
+
+> *"Think lightly of yourself and deeply of the world."*
+> 
+> — **Miyamoto Musashi**
+
+> *"Do not seek to follow in the footsteps of the wise. Seek what they sought."*
+> 
+> — **Matsuo Bashō**
+
+> *"Fall seven times, stand up eight."*
+> 
+> — **Japanese Proverb**
 
 </td>
 <td width="50%">
@@ -467,13 +1044,17 @@ approach: |
 > 
 > — **Monarch+_+MAT**
 
-> *"The only way to do great work is to love what you do."*
-> 
-> — **Philosophy**
-
 > *"Security is not a product, but a process."*
 > 
 > — **Bruce Schneier**
+
+> *"The best time to plant a tree was 20 years ago. The second best time is now."*
+> 
+> — **Chinese Proverb**
+
+> *"Everyone has a plan until they get punched in the mouth."*
+> 
+> — **Mike Tyson**
 
 > *"Code without tests is broken by design."*
 > 
@@ -482,6 +1063,244 @@ approach: |
 </td>
 </tr>
 </table>
+
+---
+
+## 📖 Books That Shape My Mentality
+
+<!-- Animated Books Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8B4513&center=true&vCenter=true&width=700&lines=📚+The+Books+That+Built+The+Monarch;🗡️+Strategy+%7C+Power+%7C+Wisdom+%7C+Faith;📖+Knowledge+Is+The+Ultimate+Power" alt="Books Animation" />
+</p>
+
+<div align="center">
+
+### 🕌 The Foundation - Islamic Texts
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**📖 The Holy Quran**
+
+<img src="https://img.shields.io/badge/The_Holy_Quran-006400?style=for-the-badge&logoColor=white" alt="Quran" />
+
+*The ultimate source of guidance, wisdom, and truth. The foundation of my life, decisions, and character.*
+
+> *"وَقُل رَّبِّ زِدْنِي عِلْمًا"*
+> 
+> *"And say: My Lord, increase me in knowledge"* - Surah Ta-Ha: 114
+
+</td>
+<td align="center" width="50%">
+
+**📚 Hadith Collections**
+
+<img src="https://img.shields.io/badge/Sahih_Bukhari_&_Muslim-006400?style=for-the-badge&logoColor=white" alt="Hadith" />
+
+*The teachings and practices of Prophet Muhammad ﷺ that guide my daily conduct and professional ethics.*
+
+> *"خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ"*
+> 
+> *"The best among you are those who learn the Quran and teach it"*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### ⚔️ Strategy & Power
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🗡️ The Book of Five Rings**
+*Miyamoto Musashi*
+
+<img src="https://img.shields.io/badge/Musashi-8B0000?style=for-the-badge" alt="Musashi" />
+
+The way of strategy, the art of combat, and the philosophy of the warrior. Musashi's timeless wisdom on mastery, discipline, and the pursuit of excellence.
+
+*"You must understand that there is more than one path to the top of the mountain."*
+
+</td>
+<td width="33%" align="center">
+
+**👑 The 48 Laws of Power**
+*Robert Greene*
+
+<img src="https://img.shields.io/badge/Robert_Greene-000000?style=for-the-badge" alt="Power" />
+
+Understanding the dynamics of power, influence, and human nature. Essential reading for navigating complex professional environments.
+
+*"Never outshine the master... but always be ready to take their place."*
+
+</td>
+<td width="33%" align="center">
+
+**🦁 The Prince**
+*Niccolò Machiavelli*
+
+<img src="https://img.shields.io/badge/Machiavelli-4B0082?style=for-the-badge" alt="Prince" />
+
+The foundational text on political strategy and leadership. Understanding power dynamics and the art of governance.
+
+*"It is better to be feared than loved, if you cannot be both."*
+
+</td>
+</tr>
+</table>
+
+### 📚 Robert Greene Collection
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**🎭 The Art of Seduction**
+
+Understanding influence and persuasion dynamics
+
+</td>
+<td width="25%" align="center">
+
+**⚔️ The 33 Strategies of War**
+
+Strategic thinking for business and life challenges
+
+</td>
+<td width="25%" align="center">
+
+**🎯 Mastery**
+
+The path to becoming world-class at any skill
+
+</td>
+<td width="25%" align="center">
+
+**🌊 The Laws of Human Nature**
+
+Deep understanding of human psychology
+
+</td>
+</tr>
+</table>
+
+### 📖 Leadership & Philosophy
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**🏛️ Meditations**
+*Marcus Aurelius*
+
+Stoic philosophy and self-discipline from a Roman Emperor
+
+</td>
+<td width="25%" align="center">
+
+**☯️ The Art of War**
+*Sun Tzu*
+
+Ancient Chinese military strategy applicable to business and security
+
+</td>
+<td width="25%" align="center">
+
+**🧠 Thinking, Fast and Slow**
+*Daniel Kahneman*
+
+Understanding cognitive biases and decision-making
+
+</td>
+<td width="25%" align="center">
+
+**🔥 Extreme Ownership**
+*Jocko Willink*
+
+Leadership lessons from Navy SEALs
+
+</td>
+</tr>
+</table>
+
+### 🔐 Cybersecurity & Technical Reading
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**🔒 The Web Application Hacker's Handbook**
+
+Essential for web security
+
+</td>
+<td width="25%" align="center">
+
+**🛡️ The Art of Intrusion**
+*Kevin Mitnick*
+
+Real-world hacking stories
+
+</td>
+<td width="25%" align="center">
+
+**☁️ Cloud Security Handbook**
+
+Cloud architecture security
+
+</td>
+<td width="25%" align="center">
+
+**🔴 Red Team Field Manual**
+
+Penetration testing reference
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📊 Reading Stats
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**50+**
+
+Books Read
+
+</td>
+<td align="center" width="25%">
+
+**📚**
+
+Currently Reading: 3
+
+</td>
+<td align="center" width="25%">
+
+**🎯**
+
+2025 Goal: 24 Books
+
+</td>
+<td align="center" width="25%">
+
+**⭐**
+
+Favorites: Strategy
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -772,30 +1591,48 @@ approach: |
 
 ### 📚 Literature & Media
 
+<!-- Anime Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=400&lines=🍥+Anime+%26+Manga+Enthusiast;⚔️+Shonen+%7C+Seinen+%7C+Action;📖+Light+Novels+%26+Manga+Reader" alt="Anime Animation" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Anime-FF6B6B?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime" />
   <img src="https://img.shields.io/badge/Manga-000000?style=for-the-badge&logo=manga&logoColor=white" alt="Manga" />
 </p>
 
-**Favorite Anime/Manga:**
-- 🐉 **Dragon Ball** - Classic shonen
-- 🍥 **Naruto** - Ninja legacy
-- ⚔️ **Attack on Titan** - Dark fantasy
-- 💥 **My Hero Academia** - Superhero society
-- 🏴‍☠️ **One Piece** - Grand adventure
+**🔥 Top Anime/Manga:**
+
+| Category | Title | Why I Love It |
+|:---:|:---|:---|
+| ⚗️ | **Fullmetal Alchemist: Brotherhood** | Equivalent Exchange philosophy |
+| 🐉 | **Dragon Ball Z/Super** | Never-ending growth mindset |
+| 🍥 | **Naruto/Boruto** | Hard work beats talent |
+| ⚔️ | **Attack on Titan** | Strategic warfare & freedom |
+| 🏴‍☠️ | **One Piece** | Dreams & adventure |
+| 💥 | **My Hero Academia** | Plus Ultra mentality |
+| 👊 | **One Punch Man** | Strength through discipline |
+| 🎭 | **Death Note** | Strategic chess matches |
+| 🗡️ | **Demon Slayer** | Family & determination |
+| 🔥 | **Jujutsu Kaisen** | Cursed energy = Security |
+| 🥋 | **Baki** | Ultimate martial arts |
+| 💪 | **Kengan Ashura** | Combat strategy |
+| 🏀 | **Slam Dunk** | Sports & dedication |
+| ⚽ | **Blue Lock** | Ego & competition |
+| 🥊 | **Hajime no Ippo** | Boxing journey |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Books-8B4513?style=for-the-badge&logo=goodreads&logoColor=white" alt="Books" />
 </p>
 
-**Favorite Books:**
+**📖 Fiction Favorites:**
 - ⚡ **Harry Potter** - Magical world
 - 🌟 **Lorien Legacies** - Sci-fi action
 - 🦁 **Narnia** - Fantasy adventure
 - ⚔️ **Game of Thrones** - Political intrigue
 - 🏹 **The Hunger Games** - Dystopian survival
 - 💔 **The Fault in Our Stars** - Emotional journey
-- 🖤 **50 Shades of Grey** - Adult fiction
+- 🗡️ **The Witcher** - Dark fantasy
 
 </td>
 </tr>
@@ -925,7 +1762,72 @@ approach: |
   </a>
 </p>
 
+</div>
+
 ---
+
+## ☕ Support My Work
+
+<div align="center">
+
+If my work has helped you in any way, consider supporting me! Every contribution helps me create more open-source projects and educational content.
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/matx104)
+
+**Ko-Fi**
+<br/>
+Buy me a coffee ☕
+
+</td>
+<td align="center" width="33%">
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/matx104)
+
+**PayPal**
+<br/>
+One-time donation 💝
+
+</td>
+<td align="center" width="33%">
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/matx104)
+
+**GitHub Sponsors**
+<br/>
+Monthly support 🌟
+
+</td>
+</tr>
+</table>
+
+### 🎁 Other Ways to Support
+
+- ⭐ **Star my repositories** - It helps increase visibility
+- 🔀 **Fork and contribute** - Help improve the projects
+- 📢 **Share my work** - Spread the word
+- 📝 **Report issues** - Help me fix bugs and improve
+- 💬 **Give feedback** - Your input is valuable
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Animated Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process&author=Bruce%20Schneier" alt="Quote" />
+
+<br/>
+
+<!-- Social Stats -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/matx104?label=GitHub%20Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/matx104?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&style=for-the-badge" alt="Total Stars" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer" />
@@ -935,6 +1837,8 @@ approach: |
   <img src="https://komarev.com/ghpvc/?username=matx104&label=Total%20Profile%20Views&color=006400&style=for-the-badge" alt="Profile Views" />
 </p>
 
+### 💚 Thank You for Visiting!
+
 <div align="center">
 
 **"Get better every day, conquer yourself, then the World 💪"**
@@ -943,12 +1847,35 @@ approach: |
 
 </div>
 
+<!-- ASCII Art Signature -->
+```
+███╗   ███╗ ██████╗ ███╗   ██╗ █████╗ ██████╗  ██████╗██╗  ██╗
+████╗ ████║██╔═══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║
+██╔████╔██║██║   ██║██╔██╗ ██║███████║██████╔╝██║     ███████║
+██║╚██╔╝██║██║   ██║██║╚██╗██║██╔══██║██╔══██╗██║     ██╔══██║
+██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║  ██║██║  ██║╚██████╗██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+                    +_+ MAT 👑
+           DevSecOps Engineer | Cloud Security Architect
+```
+
 <p align="center">
   Made with ❤️ and ☕ by <a href="https://github.com/matx104">Muhammad Abdullah Bin Tariq</a>
 </p>
 
 <p align="center">
-  <sub>Last Updated: November 2025</sub>
+  <sub>🔄 Last Updated: December 2025</sub>
+  <br/>
+  <sub>
+    <a href="https://github.com/matx104/matx104">🔗 View README Source</a> • 
+    <a href="https://github.com/matx104">📂 Visit My GitHub</a> • 
+    <a href="https://linkedin.com/in/matx104">💼 Connect on LinkedIn</a>
+  </sub>
+</p>
+
+<!-- Random Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
 </div>
