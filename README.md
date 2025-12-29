@@ -1646,6 +1646,14 @@ Favorites: Strategy
 - 🗡️ **The Witcher** - Dark fantasy
 - 🌊 **Percy Jackson** - Mythological adventures
 - 📚 **Eragon** - Dragon rider saga
+- 🌀 **Divergent** - Dystopian thriller
+- 🏃 **The Maze Runner** - Sci-fi survival
+- 🔮 **The Mortal Instruments** - Urban fantasy
+- 🐺 **Twilight** - Supernatural romance
+- 🌙 **A Court of Thorns and Roses** - Fantasy romance
+- 🎪 **The Night Circus** - Magical realism
+- ⏳ **The Time Machine** - Classic sci-fi
+- 🚀 **Ender's Game** - Space opera
 
 </td>
 </tr>
