@@ -57,7 +57,7 @@
 
 | 🏆 Achievement | 📊 Stats | 🎯 Focus |
 |:---:|:---:|:---:|
-| Youngest CISSP @ 22 | 5+ Years Experience | Cloud Security |
+| Youngest CISSP @ 22 | 7+ Years Experience | Cloud Security |
 | ISACA Member | Multi-Cloud Expert | DevSecOps |
 | Open Source Contributor | Security Automation | Zero Trust |
 
