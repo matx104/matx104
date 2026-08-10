@@ -65,9 +65,35 @@
 
 ---
 
+## 🟢 // NOW — Currently Shipping
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=📡+Live+snapshot+of+what+I'm+building%2C+learning+%26+leveling+up;🔄+Updated+regularly+—+a+%2Fnow+page+for+the+terminal+age" alt="Now Animation" />
+</p>
+
+<div align="center">
+
+| ⚙️ Dimension | 🚀 What's Active Right Now |
+|:---|:---|
+| 🔭 **Building** | Sovereign home-lab AI stack — **WAZIR** (Discord agent) × **HAKIM** (local LLM server) · Zero-Trust lab |
+| 🌱 **Learning** | CCSP · CKS · Advanced Threat Modeling · SBOM & Supply-Chain Security |
+| 🧪 **Exploring (Tekken 8)** | 🔬 **Jin Kazama** — adding the all-rounder to the roster |
+| 📺 **Watching / Reading** | 🖤 **Black Torch** · ⚽ **Blue Lock** (obsessed) |
+| 🏃 **Reviving my social life** | Football · Archery · Swimming · Climbing · Calisthenics |
+| 📫 **Best way to reach me** | [muhammad.atx@gmail.com](mailto:muhammad.atx@gmail.com) |
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" alt="divider" />
+</p>
+
+---
+
 ## 📑 Table of Contents
 
 - [⚡ Quick Highlights](#-quick-highlights)
+- [🟢 // NOW — Currently Shipping](#--now--currently-shipping)
 - [🌐 Connect with Me](#-connect-with-me)
 - [🌟 About Me](#-about-me)
 - [🎯 My Journey](#-my-journey)
@@ -76,14 +102,22 @@
 - [📈 Weekly Development Breakdown](#-weekly-development-breakdown)
 - [💼 Professional Focus](#-professional-focus)
 - [🚀 Featured Projects](#-featured-projects)
+- [🧱 Real & Personal Builds](#-real--personal-builds)
+- [🏰 The Sovereign Home Lab](#-the-sovereign-home-lab)
+- [🖥️ Uses — My Daily Driver](#️-uses--my-daily-driver)
 - [📊 GitHub Analytics](#-github-analytics)
 - [🎵 Vibing To](#-vibing-to)
 - [📝 Latest Blog Posts](#-latest-blog-posts)
 - [💡 Fun Facts About Me](#-fun-facts-about-me)
 - [📚 Inspirational Wisdom](#-inspirational-wisdom)
+- [📖 Books That Shape My Mentality](#-books-that-shape-my-mentality)
+- [🔧 Complete Toolset Reference](#-complete-toolset-reference)
 - [🎮 Beyond The Terminal](#-beyond-the-terminal)
+- [🕹️ Tekken — Main Roster](#️-tekken--main-roster)
+- [⚽ Blue Lock — The Striker's Ego](#-blue-lock--the-strikers-ego)
 - [🌍 Languages](#-languages)
 - [📚 Islamic Ethos](#-islamic-ethos)
+- [🗣️ Recommendations](#️-recommendations)
 - [☕ Support My Work](#-support-my-work)
 
 ---
@@ -632,6 +666,7 @@ timeline
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
 ### 🎮 Game Development & 3D
@@ -736,6 +771,162 @@ Other          █░░░░░░░░░░░░░░░░░░░░�
     <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
   </a>
 </p>
+
+---
+
+## 🧱 Real & Personal Builds
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=🦉+Self-hosted%2C+sovereign%2C+and+built+from+scratch;🧠+Local-first+AI+%7C+Zero-Trust+%7C+Full+control" alt="Builds Animation" />
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🦉 WAZIR — Agentic Discord Assistant
+
+<img src="https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logoColor=white" alt="OpenClaw" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+
+A self-hosted, agentic AI assistant living in Discord — with its own **lore, identity, and heraldic crest**. Consolidated to a single hardened agent, with resilient model routing and a full branding suite (`SOUL.md`, `IDENTITY.md`, `MEMORY.md`, `INFRASTRUCTURE.md`).
+
+`Agentic` `Routing Reliability` `Systemd` `Owl Crest 🦉`
+
+<!-- ✏️ Add repo link when public -->
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 HAKIM — Local LLM Inference Server
+
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+
+The local-first brain behind WAZIR — **Ollama + Qwen 2.5** running on **Oracle Cloud Always Free** (Ampere ARM). Tuned for CPU inference: solved idle-timeout kills, iptables/OCI firewall layering, and cloud-fallback routing.
+
+`ARM64` `Qwen 2.5` `Cost: $0` `Two-Server Topology`
+
+<!-- ✏️ Add repo link when public -->
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ SOCIRIS — Final Year Project
+
+<img src="https://img.shields.io/badge/Security-006400?style=for-the-badge&logoColor=white" alt="Security" />
+<img src="https://img.shields.io/badge/IoT-33B6FF?style=for-the-badge&logoColor=white" alt="IoT" />
+<img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logoColor=white" alt="AI" />
+
+An integrated **Security + IoT + AI** system, delivered as a team capstone at **ILMA University**. Combined threat-aware sensing, intelligent analysis, and a security-first architecture.
+
+`Capstone` `Team Project` `Applied Research`
+
+<!-- ✏️ Add repo / demo / paper link -->
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ Your Next Build
+
+<img src="https://img.shields.io/badge/Coming_Soon-9370DB?style=for-the-badge&logoColor=white" alt="Soon" />
+
+<!-- ✏️ Drop in your next flagship personal project here —
+     I kept employer-internal work off the public page.
+     Tell me if you want anything specific added. -->
+
+The lab never sleeps. Next flagship build loading…
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏰 The Sovereign Home Lab
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=🏰+If+I+can+self-host+it%2C+I+will;🔐+Own+your+data.+Own+your+stack.+Own+your+keys.;⚙️+Production-grade+habits%2C+homelab+playground" alt="Homelab Animation" />
+</p>
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+**🐳 Orchestration**
+```
+├── Portainer-CE
+├── Docker Compose
+├── Kubernetes
+└── Velero (backup)
+```
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**🔐 Identity & Secrets**
+```
+├── Authentik (IdP)
+├── Vaultwarden
+├── HashiCorp Vault
+└── Netbird (VPN)
+```
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**📊 Observability**
+```
+├── Grafana + Prometheus
+├── Loki + Alertmanager
+├── Netdata
+└── Uptime tracking
+```
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**🗄️ Data & Access**
+```
+├── NextCloud
+├── MeshCentral
+├── RustDesk / Guacamole
+└── Snipe-IT (assets)
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🌐 Cloud Footprint:** Oracle Cloud (Always Free · Ampere ARM) · AWS · Azure · GCP &nbsp;·&nbsp; **💸 Monthly Cost Target:** As close to `$0` as the laws of physics allow
+
+</div>
+
+---
+
+## 🖥️ Uses — My Daily Driver
+
+<div align="center">
+
+| ⚙️ Component | 🔧 What I Run |
+|:---|:---|
+| 💻 **Primary OS** | Linux — Ubuntu (daily) · Kali / Parrot / BlackArch (offensive) |
+| 🎮 **Secondary OS** | Windows (gaming · Tekken 8) |
+| 🐚 **Shell** | zsh + tmux ✏️ |
+| ✍️ **Editors** | VS Code · Vim / Neovim |
+| 🖥️ **Terminal TUI** | btop · k9s · lazygit ✏️ |
+| ⌨️ **Keyboard** | ✏️ *your board here* |
+| 🖱️ **Peripherals / Rig** | ✏️ *CPU · GPU · RAM · monitors* |
+| 🎧 **Focus Audio** | Lo-Fi · Nasheed · OST (see below) |
+| ☁️ **Homelab Host** | Oracle Cloud Always Free (Ampere ARM) |
+
+</div>
+
+> ✏️ Swap the marked rows for your real setup — this section is a flex when it's accurate.
 
 ---
 
@@ -875,7 +1066,7 @@ Always reading or taking courses
 
 **Multi-Sport Athlete**
 
-9 sports and counting!
+9+ sports and counting!
 
 </td>
 <td align="center" width="25%">
@@ -889,11 +1080,11 @@ Speaking 7 languages
 </td>
 <td align="center" width="25%">
 
-🎮
+🕹️
 
 **Fighting Game Fan**
 
-Leroy Smith main in Tekken
+6-character Tekken roster · King Barou mentality 👑
 
 </td>
 </tr>
@@ -915,6 +1106,8 @@ class MatX104:
         self.tools = ["Terraform", "Ansible", "Kubernetes", "Docker"]
         self.cloud = ["AWS", "Azure", "GCP"]
         self.current_focus = "Building Zero Trust Architecture"
+        self.homelab = ["WAZIR 🦉", "HAKIM 🧠", "Authentik", "NextCloud"]
+        self.mentality = "King Barou — I am the apex 👑"
         
     def say_bismillah(self):
         return "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْم"
@@ -923,7 +1116,7 @@ class MatX104:
         return {
             "morning": "☀️ Fajr Prayer → Coffee → News",
             "day": "💻 Code → Security Reviews → Meetings",
-            "evening": "🏃 Exercise → Family Time → Reading",
+            "evening": "🏃 Football / Archery / Gym → Family → Reading",
             "night": "🌙 Deep Work → Learning → Sleep"
         }
     
@@ -948,6 +1141,9 @@ me = MatX104()
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=📖+Wisdom+from+Books%2C+Anime+%26+Life;🗡️+The+Warrior's+Path+to+Excellence;🌟+Philosophy+That+Shapes+My+Journey" alt="Wisdom Animation" />
 </p>
+
+<details open>
+<summary><b>🗡️ Expand — Quotes That Forge The Monarch</b></summary>
 
 <table>
 <tr>
@@ -1072,6 +1268,8 @@ me = MatX104()
 </tr>
 </table>
 
+</details>
+
 ---
 
 ## 📖 Books That Shape My Mentality
@@ -1117,6 +1315,9 @@ me = MatX104()
 </table>
 
 </div>
+
+<details>
+<summary><b>📚 Expand — The Full Library (Strategy · Power · Leadership · Tech)</b></summary>
 
 ### ⚔️ Strategy & Power
 
@@ -1270,6 +1471,8 @@ Penetration testing reference
 </td>
 </tr>
 </table>
+
+</details>
 
 <div align="center">
 
@@ -1575,7 +1778,7 @@ Favorites: Strategy
 
 **Favorite Games:**
 - 🎮 **God of War** - Epic mythology adventures
-- 🥊 **Tekken** (Leroy Smith Main) - Fighting game mastery
+- 🥊 **Tekken** (see full roster below 👇) - Fighting game mastery
 - 👊 **Street Fighter** - Classic fighting
 - ⚽ **FIFA** - Virtual football
 - 🥋 **UFC** - Mixed martial arts
@@ -1583,11 +1786,23 @@ Favorites: Strategy
 
 ### 🏃‍♂️ Sports & Athletics
 
-**Active Sports:**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=420&lines=🔄+Reviving+my+social+life%2C+one+rep+at+a+time;💪+Touch+grass.+Then+conquer+it." alt="Sports Revival" />
+</p>
+
+**🔄 Reviving My Social Life:**
+- ⚽ **Football** - The beautiful game (Blue Lock IRL)
+- 🏹 **Archery** - Focus, breath, release
+- 🏊 **Swimming** - Full-body reset
+- 🧗 **Climbing** - Problem-solving vertical
+- 🤸 **Parkour** - The city is the obstacle
+- 🏋️ **Gym & Fitness** - Progressive overload
+- 💪 **Calisthenics** - Master your own bodyweight
+
+**🏓 Long-Running Sports:**
 - 🏓 **Table Tennis** - Quick reflexes
 - 🎾 **Tennis** - Court dominance
 - 🏏 **Cricket** - Team strategy
-- ⚽ **Football** - Team coordination
 - 🏐 **Volleyball** - Net skills
 - 🎯 **Dodgeball** - Agility and precision
 - 🤼 **Wrestling** - Grappling techniques
@@ -1613,6 +1828,8 @@ Favorites: Strategy
 
 | Category | Title | Why I Love It |
 |:---:|:---|:---|
+| ⚽ | **Blue Lock** ⭐ | Ego, obsession & the striker's mindset |
+| 🖤 | **Black Torch** 🆕 | Currently exploring — spirits & swordplay |
 | ⚗️ | **Fullmetal Alchemist: Brotherhood** | Equivalent Exchange philosophy |
 | 🐉 | **Dragon Ball Z/Super** | Never-ending growth mindset |
 | 🍥 | **Naruto/Boruto** | Hard work beats talent |
@@ -1626,7 +1843,6 @@ Favorites: Strategy
 | 🥋 | **Baki** | Ultimate martial arts |
 | 💪 | **Kengan Ashura** | Combat strategy |
 | 🏀 | **Slam Dunk** | Sports & dedication |
-| ⚽ | **Blue Lock** | Ego & competition |
 | 🥊 | **Hajime no Ippo** | Boxing journey |
 
 <p align="center">
@@ -1658,6 +1874,74 @@ Favorites: Strategy
 </td>
 </tr>
 </table>
+
+---
+
+## 🕹️ Tekken — Main Roster
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=9370DB&center=true&vCenter=true&width=720&lines=👑+The+King+picks+his+fighters;🥊+Six+mains%2C+one+philosophy%3A+pressure+%2B+precision;🔬+Currently+leveling+up+Jin+Kazama" alt="Tekken Animation" />
+</p>
+
+<div align="center">
+
+| 👑 | Character | Style / Archetype | Why I Play Them | Mastery |
+|:---:|:---|:---|:---|:---|
+| 🥇 | **Leroy Smith** | Kenpo · Snake & Crane | Patient counter-puncher — cane range control that punishes greed | `██████████` Main |
+| 🕺 | **Eddy Gordo** | Capoeira | Unorthodox flow, unreadable stances, tempo-breaker chaos | `█████████░` |
+| 🦵 | **Hwoarang** | Taekwondo | Relentless kick pressure, stance-dancing, momentum bully | `█████████░` |
+| ⚡ | **Kazuya Mishima** | Mishima Karate | Execution king (EWGF), high-risk/high-reward, Devil gear | `████████░░` |
+| 🗡️ | **Victor Chevalier** | Agent · Blade + Firearm | Teleport mix-ups, versatile mid-range, flashy finishers | `████████░░` |
+| 🔬 | **Jin Kazama** | Traditional Karate + Mishima | All-rounder — parries, mental chess, the exploration project | `██████░░░░` Exploring |
+
+</div>
+
+> ⚙️ **Playstyle:** pressure + precision · read the opponent, punish the greed, close the gap.
+> ✏️ *Set your true rank + signature combos here — e.g. `Rank: [your rank]` · `Go-to: [your bnb combo]`.*
+
+---
+
+## ⚽ Blue Lock — The Striker's Ego
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=1000&color=1E90FF&center=true&vCenter=true&width=760&lines=⚽+Devour+the+field.+Score+the+goal.+Own+the+moment.;👑+King+Barou+mentality%3A+I+am+the+apex+predator;🎯+Ego+isn't+arrogance+—+it's+refusing+to+lose" alt="Blue Lock Animation" />
+</p>
+
+<div align="center">
+
+> *"I'm the king. The rest of you are extras."*
+> — **King Barou** 👑
+
+</div>
+
+### 🧠 Striker's Ego ↔ Offensive Security Mindset
+
+<div align="center">
+
+| ⚽ On The Pitch | 🔐 In The Terminal |
+|:---|:---|
+| 🥅 **Steal the ball, seize the goal** | Take initiative — don't wait for the play to come to you |
+| 🌪️ **Devour the field, expand your weapon** | Widen your attack surface knowledge; every tool is a finisher |
+| 👑 **Trust your own ego** | Own the call — a striker who hesitates never scores; a tester who hesitates never lands the exploit |
+| 🔄 **Adapt mid-match** | Pivot the chain in real time; the meta shifts, so do you |
+| 🏆 **Be the last one standing** | In the field of attackers, be the one who breaks through |
+
+</div>
+
+### 🔵 The Roster I Rep
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/👑_King_Barou-1E3A8A?style=for-the-badge" alt="Barou" />
+<img src="https://img.shields.io/badge/Isagi-2563EB?style=for-the-badge" alt="Isagi" />
+<img src="https://img.shields.io/badge/Noel_Noa-1E90FF?style=for-the-badge" alt="Noa" />
+<img src="https://img.shields.io/badge/Kaiser-9370DB?style=for-the-badge" alt="Kaiser" />
+<img src="https://img.shields.io/badge/Shidou-DC2626?style=for-the-badge" alt="Shidou" />
+<img src="https://img.shields.io/badge/Rin-0F766E?style=for-the-badge" alt="Rin" />
+
+*Barou first — the apex predator — with Isagi's adaptability, Noa's craft, Kaiser's flair, Shidou's chaos, and Rin's cold precision.*
+
+</div>
 
 ---
 
@@ -1744,6 +2028,41 @@ Favorites: Strategy
 
 ---
 
+## 🗣️ Recommendations
+
+<div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=620&lines=What+people+say+about+working+with+the+Monarch;🤝+Trust+is+earned+in+the+trenches" alt="Testimonials Animation" />
+</p>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+> ✏️ *"Paste a real recommendation here — a line from a manager, teammate, or client. Keep it specific: what you shipped, how you worked."*
+
+**— ✏️ Name · Role · Company**
+
+</td>
+<td width="50%" align="center" valign="top">
+
+> ✏️ *"Second testimonial slot. Pull the best one-liner from your LinkedIn recommendations."*
+
+**— ✏️ Name · Role · Company**
+
+</td>
+</tr>
+</table>
+
+<a href="https://linkedin.com/in/matx104" target="_blank">
+  <img src="https://img.shields.io/badge/Read_More_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Recommendations" />
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 ## 🤝 Let's Connect & Collaborate!
@@ -1763,10 +2082,10 @@ Favorites: Strategy
 ### 📧 Reach Out
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:muhammad.atx@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://calendly.com/your-link" target="_blank">
+  <a href="https://calendly.com/matx104" target="_blank">
     <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendar" />
   </a>
 </p>
@@ -1895,7 +2214,7 @@ DevSecOps Engineer | Cloud Security Architect
 </p>
 
 <p align="center">
-  <sub>🔄 Last Updated: December 2025</sub>
+  <sub>🔄 Last Updated: August 2026</sub>
   <br/>
   <sub>
     <a href="https://github.com/matx104/matx104">🔗 View README Source</a> • 
