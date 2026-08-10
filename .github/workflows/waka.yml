@@ -1,0 +1,23 @@
+name: waka-readme
+
+# Updates the <!--START_SECTION:waka--> block in README.md with your
+# WakaTime coding stats. Requires a free WakaTime account + API key.
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+
+jobs:
+  update-readme:
+    name: Update WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README with WakaTime metrics
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: "false"        # keep your own heading in the README
+          BLOCKS: "░▒▓█"             # progress bar style
+          TIME_RANGE: "last_7_days"  # matches your "Weekly" section
+          LANG_COUNT: "6"

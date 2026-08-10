@@ -1,0 +1,29 @@
+name: blog-posts
+
+# Auto-fills the <!-- BLOG-POST-LIST:START --> ... <!-- BLOG-POST-LIST:END -->
+# block in README.md with your latest Medium articles. No API key needed.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write            # needed to commit the updated README
+
+jobs:
+  update-blog:
+    name: Pull latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@matx104"
+          max_post_count: 5
+          template: "| $newline"          # keep it simple; edit to taste
+          # If you prefer your table format, you can customize the template.
+          # Default output is a bullet/link list between the markers.
